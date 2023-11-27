@@ -1,1 +1,1 @@
-# k-means-
+# k-means++.py is an implementation of the k-means++ algorithm used to cluster points into similar clusters. This program was created as part of a Senior Integrative Exercise group project linked here https://github.com/riceboi732/CS-Comps.
